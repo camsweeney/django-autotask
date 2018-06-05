@@ -30,6 +30,7 @@ setup(
         'django-braces',
         'django-extensions',
         'retrying',
+        'atws',
     ],
     test_suite='runtests.suite',
     tests_require=[
